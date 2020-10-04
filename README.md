@@ -8,8 +8,8 @@
 ## remote to client
 ```
 5. ssh user@1.1.1.1
-  5.1 apt inatall fio -y
-  5.2 fio --server <--- run all client
+5.1 apt inatall fio -y
+5.2 fio --server <--- run all client
 ```
 ## comeback to fio-benchmark directory
 ```
