@@ -12,4 +12,5 @@ rw=randwrite
 size=1G
 					
 [job1]
-filename=/dev/vdb
+#filename=/dev/vdb
+filename=fio.img
