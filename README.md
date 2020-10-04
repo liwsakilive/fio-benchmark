@@ -1,5 +1,4 @@
-# fio-benchmark
-### disk benchmark
+# fio-benchmark (disk benchmark)
 ```
 1. apt install fio
 2. git clone https://github.com/liwsakilive/fio-benchmark.git
